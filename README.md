@@ -1,1 +1,1 @@
-# Natural-language-classification-and-vector-spaces
+Course 1 in Natural Language Processing Specialization on Coursera
